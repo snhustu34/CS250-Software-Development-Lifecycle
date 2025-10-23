@@ -1,1 +1,7 @@
 # CS250-Software-Development-Lifecycle
+
+From the SNHU Travel project, I learned that interpreting user needs means listening carefully to stakeholders and turning their goals into clear, realistic requiements. Writing user stories helped me focus on what the user actually wanted instead of just technical details. Each story gave our team a small, clear goal with acceptance criteria, which made it easier to stay on track and deliver something valuable each sprint. For example, stroies like "Cruise Preference" and "Price Limit and Hot Deals" turned customer feedback into features that improved the travel booking experience.
+
+My approach to development now starts with collaboration and iteration. I've seen how useful it is to plan in short sprints, hold daily stand-ups, and do retrospectives to reflect and improve. I plan to continue using Agile principles such as backlog refinement, sprint reviews, and continuous testing in future projects. Using tools like JIRA also showed me how organization and transparency help everyone stay aligned and accountable throughout the development process.
+
+BEing a good team member means more than just finishing your part, its about communicating clearly, helping others when theyre stuck, and staying adaptable when things change. During this course, I learned the importance of trust, shared goals, and open communication. Whether I'm a scrum master or a developer, I want to keep promoting teamwork and accountability so the whole group succeeds together.
